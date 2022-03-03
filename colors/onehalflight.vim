@@ -180,6 +180,7 @@ call s:h("diffRemoved", s:red, "", "")
 " Markdown
 call s:h("VimwikiHeader2", s:blue, "", "")
 call s:h("VimwikiHeader3", s:blue, "", "")
+call s:h("htmlH3", s:blue, "", "")
 call s:h("VimwikiLink", s:red, "", "underline")
 
 " Git {
